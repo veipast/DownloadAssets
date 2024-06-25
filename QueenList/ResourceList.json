@@ -1,0 +1,40 @@
+{
+    "datas": [
+        {
+            "epName": "judge",
+            "imageFile": {
+                "fileName": "judge.png",
+                "md5": "4cc89017668b733b01bce1ea0fe94006"
+            },
+            "bjFile": {
+                "fileName": "judge_blur.png",
+                "md5": "383d7000616222bcdef6ff74a5e733b5"
+            },
+            "url": "https://goodjudge.sng.link/Daj1y/77px?pcn=CoupleToJudge&_smtype=3"
+        },
+        {
+            "epName": "vampire",
+            "imageFile": {
+                "fileName": "vampire.png",
+                "md5": "75ac1bf85a24f0b207865fb384ec2992"
+            },
+            "bjFile": {
+                "fileName": "vampire_blur.png",
+                "md5": "cea08f04029071b1c6e11e99ee7fa604"
+            },
+            "url": "https://vampirequeen.sng.link/D8h9p/zgem?pcn=GJtoVampire"
+        },
+        {
+            "epName": "queencover",
+            "imageFile": {
+                "fileName": "queencover.png",
+                "md5": "3a184b89889ac8303f1b0cd6d6fdb374"
+            },
+            "bjFile": {
+                "fileName": "queencover_blur.png",
+                "md5": "d083978dabd632db84b1e2bfdd18bc28"
+            },
+            "url": "https://officequeen.sng.link/Dlrqk/4dbx?pcn=CoupleToOffice&_smtype=3"
+        }
+    ]
+}
