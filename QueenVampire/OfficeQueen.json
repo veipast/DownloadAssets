@@ -10,10 +10,10 @@
                 "fileName": "judge_blur.png",
                 "md5": "383d7000616222bcdef6ff74a5e733b5"
             },
-            "Google_URL": "https://goodjudge.sng.link/Daj1y/vkpt?pcn=VampireToJudge&_smtype=3",
-            "Google_GetURL": "https://i.sng.link/Daj1y/vkpt?pcn=VampireToJudge&_smtype=3",
-            "iOS_URL": "https://goodjudge.sng.link/Daj1y/vkpt?pcn=VampireToJudge&_smtype=3",
-            "iOS_GetURL": "https://i.sng.link/Daj1y/vkpt?pcn=VampireToJudge&_smtype=3"
+            "Google_URL": "https://goodjudge.sng.link/Daj1y/3udm?pcn=OfficeToJudge&_smtype=3",
+            "Google_GetURL": "https://i.sng.link/Daj1y/3udm?pcn=OfficeToJudge&_smtype=3",
+            "iOS_URL": "https://goodjudge.sng.link/Daj1y/3udm?pcn=OfficeToJudge&_smtype=3",
+            "iOS_GetURL": "https://i.sng.link/Daj1y/3udm?pcn=OfficeToJudge&_smtype=3"
         },
         {
             "epName": "vampire",
@@ -25,10 +25,10 @@
                 "fileName": "vampire_blur.png",
                 "md5": "cea08f04029071b1c6e11e99ee7fa604"
             },
-            "Google_URL": "",
-            "Google_GetURL": "",
-            "iOS_URL": "",
-            "iOS_GetURL": ""
+            "Google_URL": "https://vampirequeen.sng.link/D8h9p/oymx?pcn=OfficeToVampire&_smtype=3",
+            "Google_GetURL": "https://i.sng.link/D8h9p/oymx?pcn=OfficeToVampire&_smtype=3",
+            "iOS_URL": "https://vampirequeen.sng.link/D8h9p/oymx?pcn=OfficeToVampire&_smtype=3",
+            "iOS_GetURL": "https://i.sng.link/D8h9p/oymx?pcn=OfficeToVampire&_smtype=3"
         },
         {
             "epName": "queencover",
@@ -40,10 +40,10 @@
                 "fileName": "queencover_blur.png",
                 "md5": "d083978dabd632db84b1e2bfdd18bc28"
             },
-            "Google_URL": "https://officequeen.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3",
-            "Google_GetURL": "https://i.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3",
-            "iOS_URL": "https://officequeen.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3",
-            "iOS_GetURL": "https://i.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3"
+            "Google_URL": "",
+            "Google_GetURL": "",
+            "iOS_URL": "",
+            "iOS_GetURL": ""
         }
     ]
 }
