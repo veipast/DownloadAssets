@@ -1,7 +1,7 @@
 {
     "datas": [
         {
-            "epName": "Judge",
+            "epName": "Become a Justice Queen",
             "imageFile": {
                 "fileName": "Judge Trends.png",
                 "version": "0.1"
@@ -12,7 +12,7 @@
             "getUrl": "https://i.sng.link/Daj1y/vkpt?pcn=VampireToJudge&_smtype=3"
         },
         {
-            "epName": "Office",
+            "epName": "Become an Office Queen",
             "imageFile": {
                 "fileName": "Office Trends.png",
                 "version": "0.1"
