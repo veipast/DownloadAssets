@@ -1,0 +1,26 @@
+{
+    "datas": [
+        {
+            "epName": "Office",
+            "imageFile": {
+                "fileName": "Office Trends.png",
+                "version": "0.1"
+            },
+            "horizontal": 5,
+            "vertical": 4,
+            "url": "https://officequeen.sng.link/Dlrqk/31p1?pcn=JudgeToQueen&_smtype=3",
+            "getUrl": ""
+        },
+        {
+            "epName": "",
+            "imageFile": {
+                "fileName": "Vampire Trends.png",
+                "version": "0.1"
+            },
+            "horizontal": 5,
+            "vertical": 4,
+            "url": "https://vampirequeen.sng.link/D8h9p/kyar?pcn=JudgeToVampire&_smtype=3",
+            "getUrl": ""
+        }
+    ]
+}
