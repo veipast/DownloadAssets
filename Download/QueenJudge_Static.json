@@ -1,0 +1,43 @@
+{
+    "datas": [
+        {
+            "epName": "Judge",
+            "imageFile": {
+                "fileName": "Judge.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Judge_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        },
+        {
+            "epName": "Office",
+            "imageFile": {
+                "fileName": "Office.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Office_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://officequeen.sng.link/Dlrqk/31p1?pcn=JudgeToQueen&_smtype=3",
+            "getUrl": ""
+        },
+        {
+            "epName": "vampire",
+            "imageFile": {
+                "fileName": "vampire.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "vampire_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://vampirequeen.sng.link/D8h9p/kyar?pcn=JudgeToVampire&_smtype=3",
+            "getUrl": ""
+        }
+    ]
+}
