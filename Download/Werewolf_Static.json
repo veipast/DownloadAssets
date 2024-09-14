@@ -1,0 +1,56 @@
+{
+    "datas": [
+        {
+            "epName": "Judge",
+            "imageFile": {
+                "fileName": "Judge.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Judge_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://goodjudge.sng.link/Daj1y/2j4j?pcn=WolfToJudge&_smtype=3",
+            "getUrl": ""
+        },
+        {
+            "epName": "Office",
+            "imageFile": {
+                "fileName": "Office.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Office_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://officequeen.sng.link/Dlrqk/rghs?pcn=WolfToOffice&_smtype=3",
+            "getUrl": ""
+        },
+        {
+            "epName": "vampire",
+            "imageFile": {
+                "fileName": "vampire.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "vampire_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://vampirequeen.sng.link/D8h9p/g3li?pcn=WolfToVampire&_smtype=3",
+            "getUrl": ""
+        },
+        {
+            "epName": "Werewolf",
+            "imageFile": {
+                "fileName": "MysterySchool.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "MysterySchool_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        }
+    ]
+}
