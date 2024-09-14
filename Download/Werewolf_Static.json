@@ -42,11 +42,11 @@
         {
             "epName": "Werewolf",
             "imageFile": {
-                "fileName": "MysterySchool.png",
+                "fileName": "werewolf.png",
                 "version": "0.1"
             },
             "bjFile": {
-                "fileName": "MysterySchool_blur.png",
+                "fileName": "werewolf_blur.png",
                 "version": "0.1"
             },
             "url": "",
