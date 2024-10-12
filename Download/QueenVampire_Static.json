@@ -38,6 +38,19 @@
             },
             "url": "",
             "getUrl": ""
+        },
+        {
+            "epName": "Werewolf",
+            "imageFile": {
+                "fileName": "werewolf.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "werewolf_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://wolfqueen.sng.link/Dbizo/vqez?pcn=VampireToWolf&_smtype=3",
+            "getUrl": ""
         }
     ]
 }
