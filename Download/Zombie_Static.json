@@ -1,0 +1,69 @@
+{
+    "datas": [
+        {
+            "epName": "Judge",
+            "imageFile": {
+                "fileName": "Judge.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Judge_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        },
+        {
+            "epName": "Office",
+            "imageFile": {
+                "fileName": "Office.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Office_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        },
+        {
+            "epName": "vampire",
+            "imageFile": {
+                "fileName": "vampire.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "vampire_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        },
+        {
+            "epName": "Werewolf",
+            "imageFile": {
+                "fileName": "werewolf.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "werewolf_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        },
+        {
+            "epName": "Zombie",
+            "imageFile": {
+                "fileName": "Zombie.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "Zombie_blur.png",
+                "version": "0.1"
+            },
+            "url": "",
+            "getUrl": ""
+        }
+    ]
+}
