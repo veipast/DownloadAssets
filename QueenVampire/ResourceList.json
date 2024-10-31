@@ -44,6 +44,21 @@
             "Google_GetURL": "https://i.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3",
             "iOS_URL": "https://officequeen.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3",
             "iOS_GetURL": "https://i.sng.link/Dlrqk/s210?pcn=VampireToOffice&_smtype=3"
+        },
+        {
+            "epName": "werewolf",
+            "imageFile": {
+                "fileName": "werewolf.png",
+                "md5": "sadasd"
+            },
+            "bjFile": {
+                "fileName": "werewolf_blur.png",
+                "md5": "sdasda"
+            },
+            "Google_URL": "https://wolfqueen.sng.link/Dbizo/fd3w?pcn=OfficeToWolf&_smtype=3",
+            "Google_GetURL": "https://i.sng.link/D8h9p/oymx?pcn=OfficeToVampire&_smtype=3",
+            "iOS_URL": "https://wolfqueen.sng.link/Dbizo/fd3w?pcn=OfficeToWolf&_smtype=3",
+            "iOS_GetURL": "https://i.sng.link/D8h9p/oymx?pcn=OfficeToVampire&_smtype=3"
         }
     ]
 }

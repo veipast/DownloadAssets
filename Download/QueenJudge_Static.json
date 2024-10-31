@@ -38,6 +38,19 @@
             },
             "url": "https://vampirequeen.sng.link/D8h9p/kyar?pcn=JudgeToVampire&_smtype=3",
             "getUrl": ""
+        },
+        {
+            "epName": "werewolf",
+            "imageFile": {
+                "fileName": "werewolf.png",
+                "version": "0.1"
+            },
+            "bjFile": {
+                "fileName": "werewolf_blur.png",
+                "version": "0.1"
+            },
+            "url": "https://wolfqueen.sng.link/Dbizo/sbew?pcn=JudgeToWolf&_smtype=3",
+            "getUrl": ""
         }
     ]
 }
